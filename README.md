@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @guisc100
-- 👀 I’m interested in learn new kinds of tecnology and everything about Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: guisc100@gmail.com or +55(48) 996632100
+# Hi there! 👋 I'm Guilherme
 
-<!---
-guisc100/guisc100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Database Analyst with experience in Oracle, SQL Server, PostgreSQL and Azure SQL Database. I enjoy solving performance problems, writing efficient SQL, automating database tasks and continuously learning new technologies.
+
+## 💼 About me
+
+- 💾 Database Analyst focused on SQL and database administration
+- 🚀 Experience with Oracle, SQL Server, PostgreSQL and Azure SQL Database
+- ⚡ Knowledge of query optimization, troubleshooting, monitoring and automation
+- 🐍 Python for database automation and scripting
+- 🌱 Currently improving my skills in Full Stack Development
+
+## 🛠️ Technologies
+
+- SQL
+- PL/SQL
+- Oracle Database
+- Microsoft SQL Server
+- PostgreSQL
+- Azure SQL Database
+- Azure Portal
+- Python
+- Git
+
+## 📫 Contact
+
+- Email: **guisc100@gmail.com**
+- LinkedIn: *(add your profile here)*
